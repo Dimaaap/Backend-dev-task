@@ -22,6 +22,7 @@ git clone https://github.com/Dimaaap/Backend-dev-task
 Ok, you did the first step to install it.
 Then go to the project directory
 ```commandline
+cd Backend-dev-task
 cd test_project
 ```
 Then it will be super 
@@ -34,6 +35,13 @@ After the virtual environment is created,
 it should be activated by writing the 
 ```commandline
 cd env/Scripts/activate
+```
+Or, if this command doesn`t work, write the next commands
+```commandline
+cd env/Scripts
+./activate
+cd ..
+cd ..
 ```
 Ok, now our virtual environment is created and ready to work
 You need to install all dependencies.
@@ -72,9 +80,8 @@ model And `/revenue` to see data from the
 `RevenueStatistic` table
 
 ## Contacts
-1) <a href="mailto:procdima49@gmail.com">My email
-</a>
-2) [My LinkedIn](https://www.linkedin.com/in/dproc/)
-3) Telegram - @dimaapp25
+1. <a href="mailto:procdima49@gmail.com">My email</a>
+2. [My LinkedIn](https://www.linkedin.com/in/dproc/)
+3. Telegram - @dimaapp25
 
 
