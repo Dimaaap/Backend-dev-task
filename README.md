@@ -57,7 +57,7 @@ python manage.py migrate
 
 ## USAGE
 After this preparatory stage, there is one more important step
-We need to load test data into our database. For this, there is a file `create_test_data.py` in the project.
+We need to load test data into our database. For this, there is a file [`create_test_data.py`](https://github.com/Dimaaap/Backend-dev-task/blob/master/test_project/create_test_data.py) in the project.
 This is a script that loads this data into our database
 
 To download data, you need to execute the command
